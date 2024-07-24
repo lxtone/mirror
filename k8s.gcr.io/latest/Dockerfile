@@ -1,1 +1,1 @@
-FROM hub.docker.com/centos
+FROM docker.io/library/centos:latest
