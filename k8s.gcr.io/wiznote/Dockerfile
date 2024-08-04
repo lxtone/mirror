@@ -1,1 +1,1 @@
-FROM docker.io/library/wiznote/wizserver:latest
+FROM docker.io/wiznote/wizserver:latest
